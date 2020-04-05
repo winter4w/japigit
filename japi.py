@@ -29,6 +29,8 @@ def getStockData(symbol):
             dic[ditem[1]]=d['Global Quote'][item]
 
         print("The current price of ", dic["symbol"], " is: ", dic["price"])
+		
+		print("Stock Quotes retrieved successfully!")
         
 
 quit = {}
