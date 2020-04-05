@@ -1,0 +1,28 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+
+Sending URL: https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=AAPL&apikey=7LECVJHIWTPL9Z32
+The current price of  AAPL  is:  241.4100
+To quit type quit or to look up another stock press any key and enter: 
+Enter a stock symbol: MSFT
+
+Sending URL: https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=MSFT&apikey=7LECVJHIWTPL9Z32
+The current price of  MSFT  is:  153.8300
+To quit type quit or to look up another stock press any key and enter: 
+Enter a stock symbol: TSLA
+
+Sending URL: https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=TSLA&apikey=7LECVJHIWTPL9Z32
+The current price of  TSLA  is:  480.0100
+To quit type quit or to look up another stock press any key and enter: 
+Enter a stock symbol: VOO
+
+Sending URL: https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=VOO&apikey=7LECVJHIWTPL9Z32
+The current price of  VOO  is:  228.0200
+To quit type quit or to look up another stock press any key and enter: 
+Enter a stock symbol: AMD
+
+Sending URL: https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=AMD&apikey=7LECVJHIWTPL9Z32
+The current price of  AMD  is:  42.5900
+To quit type quit or to look up another stock press any key and enter: quit
+>>> 
